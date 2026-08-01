@@ -1,22 +1,77 @@
 aid: vector-legal
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/vector-legal.png
 name: Vector Legal
-description: Vector Legal is a company surfaced as a portfolio company of y-combinator and added to the
-  API Evangelist network as a stub for enrichment. This profile is a lead awaiting the enrichment pipeline.
+description: Vector Legal is an AI-native law firm and legal operating system for
+  startups, combining senior startup attorneys (averaging 10+ years of Big Law experience)
+  with proprietary software for formation, fundraising, commercial contracts, employment
+  and equity, and M&A, priced around outcomes rather than billable hours. Legal services
+  are provided by Vector Legal, P.C., a licensed California law firm; the platform
+  is built by Vector Systems, PBC. A Y Combinator Winter 2026 company headquartered
+  in San Francisco, also backed by Base10, Palm Drive Capital, and Amino Capital.
 url: https://raw.githubusercontent.com/api-evangelist/vector-legal/refs/heads/main/apis.yml
 x-type: company
 x-source: vc-portfolio
 x-backed-by:
 - y-combinator
+- base10
+- palm-drive-capital
+- amino-capital
 x-tier: stub
 x-tier-reason: portfolio-lead
 specificationVersion: '0.20'
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-07-21'
 tags:
 - Company
+- Legal
+- Legal Tech
+- Law Firm
+- Artificial Intelligence
+- Startups
+- Contracts
+- Fundraising
 apis: []
+common:
+- type: DomainSecurity
+  url: security/vector-legal-domain-security.yml
+- type: Website
+  url: https://www.vectorlegal.com/
+- type: Blog
+  url: https://www.vectorlegal.com/blog
+- type: PrivacyPolicy
+  url: https://www.vectorlegal.com/privacy-policy
+- type: Support
+  url: https://www.vectorlegal.com/contact
+- type: FAQ
+  url: https://www.vectorlegal.com/faq
+- type: About
+  url: https://www.vectorlegal.com/about
+- type: LinkedIn
+  url: https://www.linkedin.com/company/vector-legal-in/
+- type: LLMsTxt
+  url: llms/vector-legal-llms.txt
+- type: WellKnown
+  url: well-known/vector-legal-well-known.yml
+- type: ContentSignal
+  url: well-known/vector-legal-robots.txt
 maintainers:
 - FN: Kin Lane
   email: kin@apievangelist.com
 - FN: APIs.json
   email: info@apis.io
+x-enrichment:
+  date: '2026-07-21'
+  status: enriched
+  artifacts_added: 4
+  pass: local-v1

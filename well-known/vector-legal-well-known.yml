@@ -1,0 +1,39 @@
+generated: '2026-07-21'
+method: searched
+source: https://vectorlegal.com
+host: https://vectorlegal.com
+notes: The site is behind Cloudflare bot protection; unknown paths return the SPA
+  HTML shell with HTTP 200, so 200s were verified by content type. Only /llms.txt
+  and /robots.txt are real machine-readable documents. The robots.txt carries
+  Cloudflare-managed Content Signals (search=yes, ai-train=no, use=reference) and
+  per-bot AI-crawler disallows, saved verbatim as vector-legal-robots.txt.
+documents:
+- path: /.well-known/security.txt
+  status: 200
+  soft_404: true
+  note: returns SPA HTML shell, not RFC 9116 security.txt
+- path: /.well-known/openid-configuration
+  status: 200
+  soft_404: true
+  note: returns SPA HTML shell, not OIDC discovery JSON
+- path: /.well-known/oauth-authorization-server
+  status: 200
+  soft_404: true
+  note: returns SPA HTML shell, not RFC 8414 JSON
+- path: /.well-known/api-catalog
+  status: 200
+  soft_404: true
+  note: returns SPA HTML shell, not an API catalog
+- path: /.well-known/ai-plugin.json
+  status: 200
+  soft_404: true
+  note: returns SPA HTML shell, not a plugin manifest
+- path: /llms.txt
+  status: 200
+  file: ../llms/vector-legal-llms.txt
+  note: genuine llms.txt, saved verbatim
+- path: /robots.txt
+  status: 200
+  file: vector-legal-robots.txt
+  note: genuine robots.txt with Cloudflare Content Signals (search=yes, ai-train=no,
+    use=reference) and AI-crawler disallow rules

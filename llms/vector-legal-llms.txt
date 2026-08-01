@@ -1,0 +1,40 @@
+# Vector Legal
+
+> Vector Legal is an AI-native law firm for startups. Experienced startup attorneys handle formation, financing, commercial contracts, and ongoing counsel, supported by proprietary software that speeds up preparation without replacing legal judgment. Legal services are provided by Vector Legal, P.C., a licensed California law firm; the platform is built by Vector Systems, PBC.
+
+Vector Legal serves startups from formation through Series B and beyond. Work is priced around the outcome, not billable hours: most matters are a fixed fee agreed up front, fast-moving teams can retain the firm monthly, and complex transactions are scoped to the objective, so clients know the cost and scope before work begins. Vector Legal is backed by Y Combinator, Base10, Palm Drive Capital, and Amino Capital. Headquartered in San Francisco, California. Contact: contact@vectorlegal.com.
+
+## Main pages
+- [Home](https://www.vectorlegal.com/): AI-native legal for startups, from formation through Series B and beyond, with senior attorneys plus proprietary software.
+- [Services](https://www.vectorlegal.com/services): The full scope of what Vector Legal handles, organized by the stage of building a company.
+- [For LLMs](https://www.vectorlegal.com/for-llms): A machine-readable reference and attribution guidance for AI systems and large language models.
+- [FAQ](https://www.vectorlegal.com/faq): Answers to common questions about engagements, pricing, security, and the companies Vector Legal works with.
+- [Contact](https://www.vectorlegal.com/contact): Start a request or get in touch about a startup's legal needs.
+- [Security & Confidentiality](https://www.vectorlegal.com/security): How Vector Legal protects confidential work — encryption at rest and in transit, role- and matter-level access controls, audit logging, and attorney-client privilege.
+
+## Services
+- [Startup Formation](https://www.vectorlegal.com/services/getting-started): Entity formation, founder stock and vesting, IP protection, conversions, and international flips.
+- [Commercial Contracts](https://www.vectorlegal.com/services/first-contract): Template systems, first- and third-party paper review, redline negotiation, and bespoke agreements.
+- [Seed Financing](https://www.vectorlegal.com/services/seed-round): SAFEs, convertible notes, priced seeds, side letter review, cap table hygiene, and stock plan adoption.
+- [Employment & Equity](https://www.vectorlegal.com/services/building-your-team): Offer letters, PIIAAs, option grant mechanics, 409A and QSBS compliance, and worker classification.
+- [Series A Financing](https://www.vectorlegal.com/services/series-a): Term sheet negotiation, definitive financing documents, diligence response, and closing mechanics.
+- [Outside General Counsel](https://www.vectorlegal.com/services/growing): Ongoing coverage across commercial contracts, employment, compliance, and corporate governance.
+- [Growth & Governance](https://www.vectorlegal.com/services/series-b): Series B and beyond, specialist coverage, cap table maintenance, board governance, and in-house collaboration.
+- [Mergers & Acquisitions](https://www.vectorlegal.com/services/m-and-a): LOI and deal structure, diligence response, definitive documentation, and closing and post-close mechanics.
+
+## Company
+- [About](https://www.vectorlegal.com/about): Who Vector Legal is, why the firm was built, its investors, and the team behind it.
+- [Team](https://www.vectorlegal.com/team): The attorneys and paralegals of Vector Legal, working alongside the engineers who build the platform.
+- [Testimonials](https://www.vectorlegal.com/testimonials): What founders and investors say about working with Vector Legal.
+- [Blog](https://www.vectorlegal.com/blog): Practical guidance on startup law: formation, fundraising, SAFEs, term sheets, and 83(b) elections.
+
+## Clients & press
+- [Press](https://www.vectorlegal.com/press): Announcements and financings from companies represented by Vector Legal.
+- [Corgi Closes $160M Series B at $1.3B Valuation](https://www.vectorlegal.com/press/corgi-series-b): How Vector Legal represented Corgi in its $160M Series B led by TCV.
+
+## Legal
+- [Privacy Policy](https://www.vectorlegal.com/privacy-policy): How Vector Legal collects, uses, and protects personal data.
+- [Attorney Advertising](https://www.vectorlegal.com/attorney-advertising): Required attorney advertising notices and disclosures.
+
+## Resources
+- [Sitemap](https://www.vectorlegal.com/sitemap.xml): The full list of indexable URLs.
